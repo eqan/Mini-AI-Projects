@@ -1,4 +1,4 @@
-# MINI AI Projects
+# Mini AI Projects
 
 ### A Collection of mini AI projects, Just for curiosity's sake and also mastering some tools for a bigger project
 
